@@ -1,0 +1,18 @@
+# Local build and release files
+/dist/
+/build/
+**/build/
+*.exe
+*.zip
+*.pdb
+
+# Working files and old delivery folders
+/work/
+/outputs/
+
+# Local editor state
+.vs/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
