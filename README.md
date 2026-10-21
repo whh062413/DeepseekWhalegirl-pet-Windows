@@ -10,8 +10,8 @@
 
 ## 开始使用
 
-1. 打开 [Releases](https://github.com/whh062413/DeepseekWhalegirl-pet-Windows/releases/latest)，下载 `鲸鱼娘桌宠.exe`，或下载运行包并解压。
-2. 双击 `鲸鱼娘桌宠.exe`。
+1. 打开 [Releases](https://github.com/whh062413/DeepseekWhalegirl-pet-Windows/releases/latest)，下载 Windows EXE，或下载 ZIP 运行包并解压。
+2. 双击下载的 EXE；ZIP 包内的程序名为 `鲸鱼娘桌宠.exe`。
 3. 双击鲸鱼娘，或点击她旁边的 **「喂白饭」** 铁盆按钮，开饭！
 
 目前支持 Windows，使用 .NET Framework 4.x。运行时无需 Codex、Python、Node.js、API Key 或网络连接，动画素材已包含在 EXE 中。
@@ -71,7 +71,7 @@ DeepseekWhalegirl-pet-Windows/
 
 An unofficial DeepSeek Whale Girl desktop pet for **Windows**. She loves plain rice served in a metal basin, with 17 actions, 68 animation frames, and 6 mini-scenes.
 
-Download `鲸鱼娘桌宠.exe` from [Releases](https://github.com/whh062413/DeepseekWhalegirl-pet-Windows/releases/latest) and run it. Double-click the character or click the rice button to feed her; drag with the left mouse button to move her; right-click for actions, scenes, sizes, sleep, and exit. Double-click the tray icon to show or hide her.
+Download the Windows EXE from [Releases](https://github.com/whh062413/DeepseekWhalegirl-pet-Windows/releases/latest) and run it, or extract the ZIP and run `鲸鱼娘桌宠.exe`. Double-click the character or click the rice button to feed her; drag with the left mouse button to move her; right-click for actions, scenes, sizes, sleep, and exit. Double-click the tray icon to show or hide her.
 
 The application runs offline on Windows with .NET Framework 4.x. It needs no Codex, Python, Node.js, API key, or separate artwork files. To build from the repository root, run the PowerShell command above; the output is `dist\鲸鱼娘桌宠.exe`.
 
